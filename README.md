@@ -113,14 +113,13 @@ $ npm start ou yarn start
 
   * [SQLite](https://www.sqlite.org/index.html) (Banco de Dados);
 
-##:book: Licença
+## :book: Licença
 <p>Lançado em 2020 :book:</p></br>
-
 <p>Feito por Gabriel Brune :rocket:. Este projeto está sobre a licença do MIT</p></br>
 
 <p>Dar uma :star: se este projeto te ajudou</p></br>
 
-##🐛 Problemas
+## 🐛 Problemas
 <p>Sinta-se à vontade para registrar um novo problema com o respectivo título e descrição no repositório Proffy . Se você já encontrou uma solução para seu problema, eu adoraria revisar sua solicitação de pull !</p>
 
 
